@@ -20,12 +20,12 @@ This project demonstrates a **Serverless CRUD API** using **AWS Lambda, DynamoDB
 ## 🎯 Want to Learn How?  
 I've shared a **detailed breakdown** of this project on my **LinkedIn** where I explain the **setup, deployment, and best practices** for building a Serverless API.  
 
-🔗 **Check it out here:** [My LinkedIn](https://www.linkedin.com/in/mummana-prabhat)  
+🔗 **Check it out here:** [My LinkedIn](https://www.linkedin.com/in/mummana-prabhat-381a57243/)  
 
 ## 📜 Lambda Code & Repository  
 The complete **Lambda function code** is available on my **GitHub repository**.  
 
-🔗 **GitHub Repo:** [View Code](https://github.com/your-github-username/serverless-crud-api)  
+🔗 **GitHub Repo:** [View Code](lambda.mjs)  
 
 ## 🚀 Deploy Your Own Serverless API  
 Want to build and deploy this yourself? Follow my **LinkedIn post** for a step-by-step guide!  
